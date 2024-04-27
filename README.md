@@ -1,2 +1,2 @@
-# 10_wordcounter
-It is a word counter project 
+# showguessinggame
+It is interesting game so lets try out 
